@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+select {
+  width: '250px'
+}
+
+.sc-ikZpkk {
+  display: none;
+}
+
+.sc-llJcti {
+  display: none;
+} 
+
+.rdt_TableHeadRow {
+  background-color: #0c69b0 !important;
+  color: #ffffff
+}
+
+.sc-evZas{
+  font-weight: 800;
+  font-size: 17px;
+}
+
+.sc-hHLeRK {
+  font-size: 15px !important;
+}

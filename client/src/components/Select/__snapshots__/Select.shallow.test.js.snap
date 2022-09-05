@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render Select component correctly 1`] = `
+<Field
+  className="em-c-field--date-picker "
+  disabled={false}
+  error={false}
+  readOnly={false}
+  valid={false}
+>
+  <FieldBody
+    className=""
+  >
+    <select
+      className="em-c-select "
+      disabled={false}
+      id=""
+      onChange={[Function]}
+    />
+  </FieldBody>
+</Field>
+`;

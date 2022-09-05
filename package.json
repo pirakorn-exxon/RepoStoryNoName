@@ -1,0 +1,24 @@
+{
+  "name": "repostory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "build": "cd client && npm install && npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psihana-mon/Repostory.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psihana-mon/Repostory/issues"
+  },
+  "homepage": "https://github.com/psihana-mon/Repostory#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
