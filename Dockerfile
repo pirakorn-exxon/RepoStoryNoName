@@ -1,8 +1,8 @@
 FROM node:current-alpine
-COPY ./
+COPY . /
 WORKDIR /server
 RUN npm install
 ENTRYPOINT ["npm", "start"]
-WORKDIR /client
+WORKDIR ../client
 RUN npm install
 ENTRYPOINT ["npm", "start"]
